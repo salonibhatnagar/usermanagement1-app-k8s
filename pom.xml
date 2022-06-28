@@ -120,7 +120,7 @@
 							</execution>
 						</executions>
 						<configuration>
-							<repository>stacksimplify/${project.name}</repository>
+							<repository>saloni/userapp</repository>
 							<tag>${project.version}</tag>
 							<skipDockerInfo>true</skipDockerInfo>
 						</configuration>
